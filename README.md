@@ -1,0 +1,2 @@
+# netlflix_analysis
+MINI PROJECT OF NETFLIX DATA ANALYSIS
